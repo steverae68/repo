@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.kodirae" name="[COLOR red]Kodi Rae Repository[/COLOR]" version="1.0.0" provider-name="steverae">
+    <extension point="xbmc.addon.repository" name="[COLOR red]Kodi Rae Repository[/COLOR]">
+    <dir>
+        <info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+        <checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+    </dir>
+        <info compressed="false">https://raw.githubusercontent.com/steverae68/repo/addons.xml</info>
+        <datadir zip="true">https://raw.githubusercontent.com/steverae68/repository/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Unofficial Addons for Kodi</summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
+</addon>
