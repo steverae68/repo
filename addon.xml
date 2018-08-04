@@ -6,7 +6,7 @@
         <checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
         <datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
     </dir>
-        <info compressed="false">https://github.com/steverae68/repo/addon.xml</info>
+        <info compressed="false">https://raw.githubusercontent.com/steverae68/repo/master/addon.xml</info>
         <datadir zip="true">https://github.com/steverae68/repo/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
